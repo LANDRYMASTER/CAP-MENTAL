@@ -754,6 +754,10 @@
 
 
 /*** Contact Start ***/
+#bg-breadcrumb {
+    background-image: url(../img/medium-shot-women-posing-outdoors.jpg);
+    background-size: cover;
+}
 .contact .contact-img {
     position: relative;
 }
